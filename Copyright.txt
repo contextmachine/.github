@@ -1,0 +1,14 @@
+Copyright (c) $originalComment.match("Copyright \(c\) (\d+)", 1, "-", "$today.year")$today.year. CONTEXTAMACHINE.                                                                          
+AEC, CAD/CAM, BIM. Software development, computation geometry flow, and enterprise support of yours construction,    
+production process.                                                                                                  
+Contacts:                                                                                                            
+--------------------------------------------------------------------------------------------------------------       
+Organization: CONTEXTMACHINE                                                                                         
+     github: https://github.com/contextmachine                                                                       
+     email: studio.contextmachine.ru                                                                                 
+Maintainer: ["$DEVELOPER_NAME$"]                                                                                          
+     github: https://github/$DEVELOPER_GITHYB_LOGIN$ ($DEVELOPER_GITHYB_LOGIN$)                                                             
+     email: ["$DEVELOPER_EMAILS$"]                                                                                
+     ["$OTHER_FEATURES_NAMES$"]: ["$OTHER_FEATURES_STUFF$"]                                                                          
+                                                      
+                                                                                                                     
